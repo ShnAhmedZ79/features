@@ -1,0 +1,11 @@
+{
+    "id": "thefuck-pipx",
+    "version": "1.0.0",
+    "name": "thefuck (via pipx)",
+    "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/thefuck-pipx",
+    "description": "The Fuck is a magnificent app, inspired by a @liamosaur tweet (https://twitter.com/liamosaur/status/506975850596536320), that corrects errors in previous console commands. https://github.com/nvbn/thefuck",
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/pipx-package",
+        "ghcr.io/devcontainers/features/python"
+    ]
+}
