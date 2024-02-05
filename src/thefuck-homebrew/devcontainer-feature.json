@@ -1,0 +1,10 @@
+{
+    "id": "thefuck-homebrew",
+    "version": "1.0.0",
+    "name": "TheFuck (via Homebrew)",
+    "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/thefuck-homebrew",
+    "description": "The Fuck is a magnificent app, inspired by a @liamosaur tweet (https://twitter.com/liamosaur/status/506975850596536320), that corrects errors in previous console commands. https://github.com/nvbn/thefuck",
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/homebrew-package"
+    ]
+}

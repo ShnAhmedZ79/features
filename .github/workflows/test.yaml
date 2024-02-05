@@ -13,8 +13,8 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - thefuck-homebrew
+          - thefuck-pipx
         baseImage:
           - debian:latest
           - ubuntu:latest
@@ -34,8 +34,8 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - thefuck-homebrew
+          - thefuck-pipx
     steps:
       - uses: actions/checkout@v3
 
