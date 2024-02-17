@@ -18,7 +18,7 @@ $nanolayer_location \
     install \
     devcontainer-feature \
     "ghcr.io/devcontainers-contrib/features/homebrew-package:1.0.7" \
-    --option package='jesseduffield/lazygit/lazygit' --option version="$VERSION"
+    --option package='lazygit' --option version="$VERSION"
 
 echo 'Done!'
 
