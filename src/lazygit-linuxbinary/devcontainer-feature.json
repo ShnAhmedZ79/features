@@ -1,0 +1,10 @@
+{
+    "id": "lazygit-homebrew",
+    "version": "1.0.0",
+    "name": "lazygit (via direct linux binary download)",
+    "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/lazygit-homebrew",
+    "description": "simple terminal UI for git commands https://github.com/jesseduffield/lazygit",
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/homebrew-package"
+    ]
+}
