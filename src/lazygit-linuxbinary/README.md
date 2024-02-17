@@ -1,5 +1,5 @@
 
-# lazygit (via direct linux binary download) (lazygit-homebrew)
+# lazygit (via direct linux binary download) (lazygit-linuxbinary)
 
 simple terminal UI for git commands https://github.com/jesseduffield/lazygit
 
@@ -7,7 +7,7 @@ simple terminal UI for git commands https://github.com/jesseduffield/lazygit
 
 ```json
 "features": {
-    "ghcr.io/GeorgOfenbeck/features/lazygit-homebrew:1": {}
+    "ghcr.io/GeorgOfenbeck/features/lazygit-linuxbinary:1": {}
 }
 ```
 
