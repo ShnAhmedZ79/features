@@ -5,6 +5,6 @@
     "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/lazygit-linuxbinary",
     "description": "simple terminal UI for git commands https://github.com/jesseduffield/lazygit",
     "dependsOn": [
-        "ghcr.io/devcontainers-contrib/features/curl-apt-get"
+        "ghcr.io/devcontainers-contrib/features/curl-apt-get:1"
     ]
 }
