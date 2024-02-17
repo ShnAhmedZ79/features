@@ -36,6 +36,8 @@ jobs:
         features:
           - thefuck-homebrew
           - thefuck-pipx
+          - lazygit-homebrew
+          - lazygit-linuxbinary
     steps:
       - uses: actions/checkout@v3
 
