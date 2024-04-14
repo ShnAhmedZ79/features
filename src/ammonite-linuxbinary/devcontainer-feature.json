@@ -1,0 +1,7 @@
+{
+    "id": "ammonite-linuxbinary",
+    "version": "1.0.0",
+    "name": "ammonite (via direct linux binary download)",
+    "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/ammonite-linuxbinary",
+    "description": "Ammonite lets you use the Scala language for scripting purposes https://ammonite.io/",
+}

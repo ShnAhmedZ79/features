@@ -1,0 +1,10 @@
+{
+    "id": "ammonite-homebrew",
+    "version": "1.0.0",
+    "name": "ammonite (via Homebrew)",
+    "documentationURL": "https://github.com/GeorgOfenbeck/features/tree/main/src/ammonite-homebrew",
+    "description": "Ammonite lets you use the Scala language for scripting purposes https://ammonite.io/",
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/homebrew-package"
+    ]
+}
